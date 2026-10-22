@@ -1,124 +1,159 @@
 <img src="icon.png" width="96" alt="RACK icon: a silver R with a lifter in it, on black">
 
-# Download RACK
+# RACK
 
-RACK is a workout app for **Android** and **iPhone**: at-a-glance workouts, plate math, smart week-to-week progression, and a rest chime that plays over your music. Everyone who uses it gets their own profile, and RACK can build a plan from your goals, your body, and the days you can train, with or without a gym.
+**Workouts that adjust to you.** RACK tells you exactly what to lift today, counts your rest with a chime that plays over your music, and builds next week from how this week went.
 
-**Current version: 2.14** · Free · No account or sign-in needed to download
+- **Know what to do at a glance.** Every exercise reads like "3 x 10 at 45 lb", with the plates for each side.
+- **A plan built around you.** Answer a few questions and RACK builds a plan for your goal, your days, and your equipment. Or use the ready-made RACK split, or build your own.
+- **Gets smarter every week.** Rate how each exercise felt and RACK adjusts your weights, sets, and reps.
+- **Right from your lock screen.** Log a set, add 30 seconds, skip, and see what's coming up next without unlocking.
+- **Life happens.** Swap an exercise, skip a day and make it up later, or turn on Vacation mode.
+- **Yours.** Pounds or kilograms, six rest chimes, sounds and haptics on or off. Your workouts stay on your phone: no account, no ads, free.
 
-| Your phone | Download | How to install |
-|---|---|---|
-| **Android** (8 or newer) | [**RACK-2.14.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.14/RACK-2.14.apk) | On the phone, no computer needed. [Steps](#android) |
-| **iPhone** (iOS 26 or newer) | [**RACK-2.14.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.14/RACK-2.14.ipa) | From a Windows PC with Sideloadly. [Steps](#iphone) |
+**Version 2.15** · Android 8 or newer · iPhone with iOS 26 or newer
 
-Older versions are on the [releases page](https://github.com/TheShow715/rack-downloads/releases).
+---
+
+## Install
+
+Pick your phone. Each guide takes you from start to finish, one step at a time.
+
+| Your phone | Download | Guide | Time |
+|---|---|---|---|
+| **Android** | [**RACK-2.15.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.15/RACK-2.15.apk) | [Install on Android](#android) | 2 minutes, on the phone |
+| **iPhone** | [**RACK-2.15.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.15/RACK-2.15.ipa) | [Install on iPhone](#iphone) | 15 minutes the first time, with a Windows PC or a Mac |
+
+Not sure which phone you have? If it says **iPhone** on the back or in **Settings → General → About**, it's an iPhone. Anything else (Samsung, Pixel, Motorola, OnePlus...) is Android.
 
 ---
 
 ## Android
 
-### Install RACK (one time)
+You only need the phone. RACK isn't in the Play Store, so you download it here and Android asks you to allow it once.
 
-Do this on the Android phone.
+**Step 1. Download RACK.** On the phone, open this page in **Chrome** and tap [**RACK-2.15.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.15/RACK-2.15.apk).
+If Chrome warns that the file could be harmful, tap **Download anyway**.
 
-1. **Download the app.** In **Chrome**, open this page and tap [**RACK-2.14.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.14/RACK-2.14.apk).
-   - If Chrome says *"This type of file can harm your device"*, tap **Download anyway**.
-2. **Open it.** Tap **Open** when the download finishes (or open the **Files** app → **Downloads** → **RACK-2.14.apk**).
-3. **Allow the install, once.** Android says *"For your security, your phone is not allowed to install unknown apps from this source"*. Tap **Settings**, turn on **Allow from this source**, then tap the back arrow.
-4. **Tap Install.**
-   - If **Google Play Protect** says it doesn't recognise the developer, tap **More details** → **Install anyway** (or **Scan app**, then **Install**). RACK isn't on the Play Store, so Play Protect has never seen it.
-5. **Open RACK** and tap **Create a profile**. Pick a username and password (write the password down: there's no "forgot password"), then use **the RACK split** or let RACK build a plan for you.
-   - When it asks about **Notifications**, tap **Allow**. That's where the rest countdown and **Log set** button live.
-6. **Test the rest chime.** **Settings** → **Test the chime (5 seconds)**, then lock the phone with music playing. The music dips for a moment, you hear two short chimes, and the music comes right back up.
+**Step 2. Open the file.** Tap **Open** when the download finishes.
+Missed it? Open the **Files** app, go to **Downloads**, and tap **RACK-2.15.apk**.
 
-### Update RACK on Android
+**Step 3. Allow it, once.** Android says it isn't allowed to install apps from this source. Tap **Settings**, turn on **Allow from this source**, and tap back.
 
-1. Come back to this page and download the newest **.apk** on the phone.
-2. Open it and tap **Update**. Your workouts, profiles, and settings stay.
+**Step 4. Tap Install.** If **Play Protect** says it doesn't know the app, tap **More details**, then **Install anyway**.
 
-**Never uninstall RACK to fix a problem.** Uninstalling deletes its data. Export a backup first if you ever have to (**Settings → Export backup**).
+**Step 5. Open RACK.** Tap **Create a profile**, pick a username and password, and choose a plan. When it asks about notifications, tap **Allow**: that's where your rest timer and **Log set** button live.
 
-### Android troubleshooting
-- **"App not installed" when updating:** you're installing an older version over a newer one. Download the newest .apk.
-- **The rest chime is late or silent with the phone locked:** open the phone's **Settings → Apps → RACK → Battery** and choose **Unrestricted** (some phones call it **Don't optimise**). On Samsung, also remove RACK from **Sleeping apps**. Check that **Notifications** are allowed for RACK.
-- **The workout notification stays after you're done:** it goes away by itself when you finish the day's last exercise, after 45 minutes with no set logged, or when you swipe RACK away from recent apps.
-- **The page looks blank after an update:** close RACK from the recent-apps screen and open it again.
+That's it. 🎉
+
+<details>
+<summary><b>Install from a computer instead (Windows or Mac)</b></summary>
+
+Use this if the phone can't download the file itself.
+
+1. Download [**RACK-2.15.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.15/RACK-2.15.apk) on the computer.
+2. Connect the phone with a USB cable. On the phone, tap the **USB** notification and choose **File transfer**.
+   - **Windows:** the phone shows up in File Explorer.
+   - **Mac:** install the free **OpenMTP** app (openmtp.ganeshrvel.com) to see the phone's files.
+3. Copy **RACK-2.15.apk** into the phone's **Download** folder.
+4. On the phone, open **Files → Downloads**, tap the file, and continue from **Step 3** above.
+
+Already use **adb**? Turn on USB debugging and run `adb install -r RACK-2.15.apk`.
+</details>
+
+**Updating:** download the newest .apk from this page, open it, and tap **Update**. Your workouts stay. Never uninstall RACK to update: that deletes its data.
+
+**Rest chime late with the phone locked?** Open the phone's **Settings → Apps → RACK → Battery** and choose **Unrestricted**. On Samsung, also take RACK out of **Sleeping apps**.
 
 ---
 
 ## iPhone
 
-RACK isn't on the App Store, so an iPhone installs it from a **Windows PC** with a free tool called **Sideloadly**. The PC setup takes about 10 minutes, once.
+RACK isn't in the App Store, so you put it on your iPhone with a free computer app called **Sideloadly**. You need:
 
-### What you need
-- A **Windows PC** (no Mac needed).
-- Your **iPhone** on iOS 26 or newer.
-- A **USB cable** that carries data, not just charging. The one that came with the iPhone works.
-- Your **Apple ID** email and password. A free Apple ID is fine.
+- A **Windows PC** or a **Mac**
+- Your iPhone and a **USB cable** that carries data (the one from the box works)
+- Your **Apple ID** email and password (a free Apple ID is fine)
 
-### One-time PC setup
-1. **Install iTunes (the website version)** from **https://www.apple.com/itunes/download/win64**. If you already have iTunes from the **Microsoft Store**, uninstall it first (Start → Settings → Apps → iTunes → Uninstall): the Store version doesn't work with Sideloadly.
-2. **Install iCloud (the website version)** with the iCloud link on **https://sideloadly.io**. Restart the PC if it asks.
-3. **Install Sideloadly**, only from **https://sideloadly.io** (other sites with similar names aren't official). Accept the defaults.
-4. **Restart the PC.**
+### Step 1. Set up the computer (first time only)
 
-### Install RACK on the iPhone
-1. **Download** [**RACK-2.14.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.14/RACK-2.14.ipa) on the PC. It saves to Downloads. Don't unzip or rename it.
-2. **Connect the iPhone.** Unlock it and plug it into the PC. If it asks **"Trust This Computer?"**, tap **Trust** and enter your passcode.
-3. **Open Sideloadly.** Your iPhone's name should show in the **iDevice** box.
-4. **Drag RACK-2.14.ipa** from Downloads onto the **IPA** icon in the top left of Sideloadly.
-5. **Enter your Apple ID** email in the **Apple account** box. Leave **Advanced Options** as they are (don't tick anything that removes app extensions, or the Dynamic Island timer won't show).
-6. **Click Start.** Enter your Apple ID password when asked (Sideloadly sends it only to Apple), and the 6-digit code if Apple sends one.
-7. **Wait for "Done."** RACK's R icon appears on the iPhone.
+**On a Windows PC:**
+1. Install **iTunes** from apple.com/itunes/download/win64. If you have iTunes from the Microsoft Store, uninstall it first: the Store version doesn't work.
+2. Install **iCloud** using the iCloud link on sideloadly.io.
+3. Install **Sideloadly** from **sideloadly.io** (only from there).
+4. Restart the PC.
 
-### First launch (once)
-1. **Trust your Apple ID as a developer:** iPhone **Settings → General → VPN & Device Management** → under **Developer App**, tap your Apple ID email → **Trust**, then **Trust** again.
-2. **Turn on Developer Mode:** tap the RACK icon and tap **OK** on the Developer Mode message. Then **Settings → Privacy & Security** → scroll to the bottom → **Developer Mode** → **On** → **Restart**. After the restart, unlock the phone, tap **Turn On**, and enter your passcode.
-3. **Open RACK** and tap **Create a profile**. Pick a username and password (write the password down: there's no "forgot password"), then use **the RACK split** or let RACK build a plan for you. Tap **Allow** for **Notifications** and **Live Activities**.
-4. **Test the rest chime:** RACK **Settings** → **Rest timer** → **Test it (5 seconds)**, then lock the phone with music playing. You hear two short chimes over the music, even in Silent mode.
+**On a Mac:**
+1. Install **Sideloadly for macOS** from **sideloadly.io** (only from there). Drag it to Applications.
+2. Open it. If the Mac says it's from an unidentified developer, open **System Settings → Privacy & Security** and click **Open Anyway**.
 
-### Every 7 days: refresh the app
-A free Apple ID only signs apps for **7 days**. After that, RACK won't open until you refresh it. Refreshing **keeps all your workouts**.
-1. Plug the iPhone into the PC and unlock it.
-2. Open Sideloadly and drag in the same **.ipa** (or the newest one from this page).
-3. Use the **same Apple ID** as before and click **Start**.
+### Step 2. Put RACK on the iPhone
 
-Set a weekly reminder. **Never delete the app to fix a problem:** deleting RACK deletes your workout log. Installing over the top is always safe.
+1. Download [**RACK-2.15.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.15/RACK-2.15.ipa) on the computer. Don't unzip or rename it.
+2. Unlock the iPhone and plug it in. Tap **Trust** on the iPhone and enter your passcode.
+3. Open **Sideloadly**. Your iPhone's name shows in the **iDevice** box.
+4. Drag **RACK-2.15.ipa** onto the **IPA** icon in Sideloadly.
+5. Type your **Apple ID** email in the **Apple account** box and click **Start**.
+6. Enter your Apple ID password (it only goes to Apple) and the 6-digit code if one appears.
+7. Wait for **Done**. The RACK icon appears on the iPhone.
 
-### Update RACK on the iPhone
-Download the newest **.ipa** from this page and follow [Install RACK on the iPhone](#install-rack-on-the-iphone) from step 2, with the same Apple ID. Your workouts carry over.
+### Step 3. Open RACK (first time only)
 
-### iPhone troubleshooting
-- **iPhone doesn't show up in Sideloadly:** unlock it and tap **Trust**, try another cable or USB port, and make sure iTunes is the website version, then restart the PC.
-- **"Untrusted Developer" or "Unable to verify app":** do First launch step 1 again, with the iPhone online.
-- **RACK opens and closes right away:** the 7 days ran out. [Refresh it](#every-7-days-refresh-the-app); your data is still there.
-- **Sideloadly says the login failed:** check the Apple ID email for typos, wait a minute, and click **Start** again.
-- **Sideloadly says you've reached the app limit:** a free Apple ID can have 3 sideloaded apps at once. Delete one of the *other* sideloaded apps (never RACK) and try again.
-- **No workout on the Lock Screen:** iPhone **Settings → RACK → Live Activities** → on, then log a set and lock the phone.
-- **The rest chime is quiet:** it plays at media volume, so turn the volume up while music plays.
+1. On the iPhone, open **Settings → General → VPN & Device Management**, tap your email under **Developer App**, and tap **Trust**.
+2. Tap the RACK icon, then tap **OK** on the Developer Mode message. Open **Settings → Privacy & Security → Developer Mode**, turn it **On**, and tap **Restart**. After the restart, tap **Turn On**.
+3. Open RACK, tap **Create a profile**, and choose a plan. Tap **Allow** for notifications and Live Activities.
+
+That's it. 🎉
+
+### Every 7 days
+
+A free Apple ID lets the app run for 7 days. To keep it going, plug in the iPhone and repeat **Step 2** with the same Apple ID. Your workouts stay. A weekly reminder helps.
+
+**Updating:** same as above: download the newest .ipa from this page and repeat **Step 2**. Never delete RACK to update: that deletes your workouts.
+
+<details>
+<summary><b>Using AltStore instead of Sideloadly (Mac or Windows)</b></summary>
+
+1. Install **AltServer** from **altstore.io** and follow its steps to put **AltStore** on the iPhone.
+2. Download **RACK-2.15.ipa** on the iPhone (or AirDrop it from the Mac).
+3. In AltStore, go to **My Apps**, tap **+**, and pick the file.
+4. AltStore refreshes RACK every 7 days by itself when the iPhone and computer are on the same Wi-Fi.
+</details>
+
+<details>
+<summary><b>iPhone help</b></summary>
+
+- **The iPhone doesn't show in Sideloadly:** unlock it, tap **Trust**, try another cable or port. On Windows, make sure iTunes is the website version.
+- **RACK opens and closes right away:** the 7 days ran out. Repeat Step 2; your data is still there.
+- **"Untrusted Developer":** do Step 3, item 1 again with the iPhone online.
+- **Sideloadly says you've reached the app limit:** a free Apple ID can have 3 apps like this. Remove another one (never RACK).
+- **No workout on the Lock Screen:** **Settings → RACK → Live Activities** → on.
+</details>
 
 ---
 
 ## Keep your workouts safe
-- RACK backs itself up every day and before every update.
-- **Make your own copy:** RACK → **Settings** → **Export backup**, and save it to iCloud Drive, Google Drive, or Downloads. Do this before switching phones.
-- **Restore or move phones:** RACK → **Settings** → **Import backup** → pick the file. It works between iPhone and Android, and importing never deletes anything.
 
-## What's new in 2.14
-
-- **A new opening screen with two doors: Create a profile, or I already have a profile.** Password fields have an eye: tap it and it opens to show what you typed, tap again and it closes. Creating a profile shows when the two passwords match.
-- **"Let's RACK it!"** greets you when you sign in, and when your new plan is ready.
-- **"How can I RACK your weights?"** After you create a profile (or from **Settings → Change goals and plan**), pick one:
-  - **Generate my workout for me:** one question at a time: your goal (or an event), your weight and goal weight with a date to reach it, **how many days a week and which days**, **how long per workout**, **include a rest day?**, experience, equipment, what to focus on, and optional details (sex, age, height, resting heart rate, measurements), anything that hurts, and the squat check. Then RACK shows the plan before you use it.
-  - **Build my own workout:** pick your days, then for each day the muscle areas, how long, and every exercise with its sets, reps, and rest. RACK can suggest exercises for the areas and time you picked, and you can add any exercise from the library, reorder, or remove them. RACK still adds the warm-up, cool-down, alternates, and starting weights.
-- **Goal weight by a date.** Say you want to lose 10 lb in 3 weeks: RACK works out the pace, tells you honestly if that's faster than safe, and plans the fastest safe pace instead (calories and extra conditioning), with a countdown on Progress.
-- **Your days, your way.** Workouts land on the exact days you picked. "No rest day" turns days off into light recovery (an easy walk and mobility). Sore knees, lower back, or shoulders? RACK swaps in moves that go easier on them.
-- **Fixed: "Testing…" no longer overlaps "Test it (5 seconds)"** in Settings → Rest timer. The label now changes cleanly.
-- **Coaches Notes is now RACK Notes** on every exercise.
-- **RACK, always in caps.** Every "rack" word now reads RACK: **Set 2 RACKed**, **All RACKed up**, **Let's RACK it**, **Back to the RACK**, on the screen, the Lock Screen, and notifications.
-- Everything you've logged, your profiles, and your current plan stay exactly as they were: install over 2.13.1 as usual.
-
+RACK saves a backup every day and before every update. To move to a new phone (iPhone or Android, either way), go to **Settings → Export backup** on the old phone, then **Settings → Import backup** on the new one. Importing never deletes anything.
 
 ---
 
-Something not working? Tell whoever shared RACK with you, with a screenshot.
+## What's new in 2.15
+
+- **A Lock Screen that fits:** Log set runs the full width, an alarm clock shows the rest left next to the bar, and a Skip button skips the exercise. After an exercise's last set you get the rating buttons and what's coming up next, with how to set it up.
+- **Pounds, kilograms, or both:** Settings → Weights shows every weight the way you like. Your log keeps the numbers you logged.
+- **Vacation mode:** Take workouts off for the days you're away. Nothing piles up, and your first week back starts a little lighter.
+- **Pick your rest chime:** Six chimes to choose from in Settings → Sound, with clear switches for Sounds and Haptics.
+- **Workouts read the same everywhere:** Every exercise reads "3 x 10 at 45 lb": sets, reps, and the weight.
+- **Fixed EZ bars:** EZ-bar lifts use 10 lb steps, like Hammer Strength style fixed bars.
+- **A tour, What's new, and About:** New profiles get a quick tour, every update shows what changed, and Settings → About has the version, notes, and more.
+- **Let's get ready to RACK it!:** A short opening animation the first time you open RACK each day.
+
+**Fixed**
+- The rest chime now sounds while speech to text is on.
+- The Lock Screen no longer cuts off the last set's rating buttons.
+- No rest bar on the Lock Screen until rest starts.
+- Exercise cards drop the rest and tempo line, and the add and remove set buttons say what they do.
+
+
+[Every version](https://github.com/TheShow715/rack-downloads/releases)
