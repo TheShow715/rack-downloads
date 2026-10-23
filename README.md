@@ -13,7 +13,7 @@
 - **Switch it up.** Kickboxing, boxing, calisthenics, yoga, pilates, HIIT, mobility, kettlebell, and dance, each with step-by-step how-tos and a guided session. Plus 200+ exercises, from deadlifts to your first pull-up.
 - **Yours.** Imperial or Metric units, six rest chimes, sounds and haptics on or off. Your workouts stay on your phone: no account, no ads, free.
 
-**Version 2.19** · Android 8 or newer · iPhone with iOS 17 or newer
+**Version 2.20** · Android 8 or newer · iPhone with iOS 17 or newer
 
 ---
 
@@ -23,8 +23,8 @@ Pick your phone. Each guide takes you from start to finish, one step at a time.
 
 | Your phone | Download | Guide | Time |
 |---|---|---|---|
-| **Android** (8+) | [**RACK-2.19.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.19/RACK-2.19.apk) | [Install on Android](#android) | 2 minutes, on the phone |
-| **iPhone** (iOS 17+) | [**RACK-2.19.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.19/RACK-2.19.ipa) | [Install on iPhone](#iphone) | 15 minutes the first time, with a Windows PC or a Mac |
+| **Android** (8+) | [**RACK-2.20.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.20/RACK-2.20.apk) | [Install on Android](#android) | 2 minutes, on the phone |
+| **iPhone** (iOS 17+) | [**RACK-2.20.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.20/RACK-2.20.ipa) | [Install on iPhone](#iphone) | 15 minutes the first time, with a Windows PC or a Mac |
 
 **Will it run on my phone?** [Check here](#which-phones). In short: any iPhone from the iPhone XS / XR (2018) on, and almost any Android phone from 2017 on.
 
@@ -36,11 +36,11 @@ Not sure which phone you have? If it says **iPhone** on the back or in **Setting
 
 You only need the phone. RACK isn't in the Play Store, so you download it here and Android asks you to allow it once.
 
-**Step 1. Download RACK.** On the phone, open this page in **Chrome** and tap [**RACK-2.19.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.19/RACK-2.19.apk).
+**Step 1. Download RACK.** On the phone, open this page in **Chrome** and tap [**RACK-2.20.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.20/RACK-2.20.apk).
 If Chrome warns that the file could be harmful, tap **Download anyway**.
 
 **Step 2. Open the file.** Tap **Open** when the download finishes.
-Missed it? Open the **Files** app, go to **Downloads**, and tap **RACK-2.19.apk**.
+Missed it? Open the **Files** app, go to **Downloads**, and tap **RACK-2.20.apk**.
 
 **Step 3. Allow it, once.** Android says it isn't allowed to install apps from this source. Tap **Settings**, turn on **Allow from this source**, and tap back.
 
@@ -55,14 +55,14 @@ That's it. 🎉
 
 Use this if the phone can't download the file itself.
 
-1. Download [**RACK-2.19.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.19/RACK-2.19.apk) on the computer.
+1. Download [**RACK-2.20.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.20/RACK-2.20.apk) on the computer.
 2. Connect the phone with a USB cable. On the phone, tap the **USB** notification and choose **File transfer**.
    - **Windows:** the phone shows up in File Explorer.
    - **Mac:** install the free **OpenMTP** app (openmtp.ganeshrvel.com) to see the phone's files.
-3. Copy **RACK-2.19.apk** into the phone's **Download** folder.
+3. Copy **RACK-2.20.apk** into the phone's **Download** folder.
 4. On the phone, open **Files → Downloads**, tap the file, and continue from **Step 3** above.
 
-Already use **adb**? Turn on USB debugging and run `adb install -r RACK-2.19.apk`.
+Already use **adb**? Turn on USB debugging and run `adb install -r RACK-2.20.apk`.
 </details>
 
 **Updating:** download the newest .apk from this page, open it, and tap **Update**. Your workouts stay. Never uninstall RACK to update: that deletes its data.
@@ -93,10 +93,10 @@ RACK isn't in the App Store, so you put it on your iPhone with a free computer a
 
 ### Step 2. Put RACK on the iPhone
 
-1. Download [**RACK-2.19.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.19/RACK-2.19.ipa) on the computer. Don't unzip or rename it.
+1. Download [**RACK-2.20.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.20/RACK-2.20.ipa) on the computer. Don't unzip or rename it.
 2. Unlock the iPhone and plug it in. Tap **Trust** on the iPhone and enter your passcode.
 3. Open **Sideloadly**. Your iPhone's name shows in the **iDevice** box.
-4. Drag **RACK-2.19.ipa** onto the **IPA** icon in Sideloadly.
+4. Drag **RACK-2.20.ipa** onto the **IPA** icon in Sideloadly.
 5. Type your **Apple ID** email in the **Apple account** box and click **Start**.
 6. Enter your Apple ID password (it only goes to Apple) and the 6-digit code if one appears.
 7. Wait for **Done**. The RACK icon appears on the iPhone.
@@ -119,7 +119,7 @@ A free Apple ID lets the app run for 7 days. To keep it going, plug in the iPhon
 <summary><b>Using AltStore instead of Sideloadly (Mac or Windows)</b></summary>
 
 1. Install **AltServer** from **altstore.io** and follow its steps to put **AltStore** on the iPhone.
-2. Download **RACK-2.19.ipa** on the iPhone (or AirDrop it from the Mac).
+2. Download **RACK-2.20.ipa** on the iPhone (or AirDrop it from the Mac).
 3. In AltStore, go to **My Apps**, tap **+**, and pick the file.
 4. AltStore refreshes RACK every 7 days by itself when the iPhone and computer are on the same Wi-Fi.
 </details>
@@ -156,9 +156,12 @@ RACK saves a backup every day and before every update. To move to a new phone (i
 
 ---
 
-## What's new in 2.19
+## What's new in 2.20
 
-- **Imperial or Metric:** Settings → Units now switches everything at once, not just weights. Imperial shows pounds, miles, and feet and inches; Metric shows kilograms, kilometers, and centimeters, from your sets and plates to run distances, body check-ins, height, treadmill speeds, and plan notes. Both shows each one with the metric number after it. Your old pick carries over, and your log keeps every number you logged.
+- **A Profile tab:** Everything about you in one place: your photo, today's RACKed ring, this week, your body numbers, goals and plan, favorite styles, and your account. Settings keeps the app's own switches.
+- **Awards to earn:** A trophy shelf of badges: workouts, sets RACKed, weight moved, week streaks, plate clubs for bench, squat, and deadlift, styles you've tried, and firsts like your first pull-up. Locked ones show how to earn them. New ones get one chime and a dot on Profile, never during a set (turn it off in Settings → Notifications).
+- **Streaks and months:** Your week streak grows every week you hit your planned days, and vacation mode pauses it. A calendar shows every workout this month, and training on 80% of your planned days earns that month's badge, in its own color.
+- **How much you've lifted:** See your total weight moved, with a fun comparison like "That's about 3 blue whales." A set that beats your best says New best right on the exercise, and each week shows your lift of the week.
 
 
 [Every version](https://github.com/TheShow715/rack-downloads/releases)
