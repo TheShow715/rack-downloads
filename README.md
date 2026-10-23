@@ -13,7 +13,7 @@
 - **Try Something New.** Kickboxing, boxing, calisthenics, yoga, pilates, HIIT, mobility, kettlebell, and dance, each with step-by-step how-tos, a stick figure that acts out every move, and a guided session. Plus 200+ exercises, from deadlifts to your first pull-up.
 - **Yours.** 15 themes, from Cookies & Cream to Pink Donut Sprinkles. Imperial or Metric units, six rest chimes, sounds and haptics on or off. Your workouts stay on your phone, no ads, free. Friends is optional, and you choose what they see.
 
-**Version 2.31** · Android 8 or newer · iPhone with iOS 17 or newer
+**Version 2.34** · Android 8 or newer · iPhone with iOS 17 or newer
 
 ---
 
@@ -23,8 +23,8 @@ Pick your phone. Each guide takes you from start to finish, one step at a time.
 
 | Your phone | Download | Guide | Time |
 |---|---|---|---|
-| **Android** (8+) | [**RACK-2.31.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.31/RACK-2.31.apk) | [Install on Android](#android) | 2 minutes, on the phone |
-| **iPhone** (iOS 17+) | [**RACK-2.31.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.31/RACK-2.31.ipa) | [Install on iPhone](#iphone) | 15 minutes the first time, with a Windows PC or a Mac |
+| **Android** (8+) | [**RACK-2.34.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.34/RACK-2.34.apk) | [Install on Android](#android) | 2 minutes, on the phone |
+| **iPhone** (iOS 17+) | [**RACK-2.34.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.34/RACK-2.34.ipa) | [Install on iPhone](#iphone) | 15 minutes the first time, with a Windows PC or a Mac |
 
 **Will it run on my phone?** [Check here](#which-phones). In short: any iPhone from the iPhone XS / XR (2018) on, and almost any Android phone from 2017 on.
 
@@ -36,11 +36,11 @@ Not sure which phone you have? If it says **iPhone** on the back or in **Setting
 
 You only need the phone. RACK isn't in the Play Store, so you download it here and Android asks you to allow it once.
 
-**Step 1. Download RACK.** On the phone, open this page in **Chrome** and tap [**RACK-2.31.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.31/RACK-2.31.apk).
+**Step 1. Download RACK.** On the phone, open this page in **Chrome** and tap [**RACK-2.34.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.34/RACK-2.34.apk).
 If Chrome warns that the file could be harmful, tap **Download anyway**.
 
 **Step 2. Open the file.** Tap **Open** when the download finishes.
-Missed it? Open the **Files** app, go to **Downloads**, and tap **RACK-2.31.apk**.
+Missed it? Open the **Files** app, go to **Downloads**, and tap **RACK-2.34.apk**.
 
 **Step 3. Allow it, once.** Android says it isn't allowed to install apps from this source. Tap **Settings**, turn on **Allow from this source**, and tap back.
 
@@ -55,14 +55,14 @@ That's it. 🎉
 
 Use this if the phone can't download the file itself.
 
-1. Download [**RACK-2.31.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.31/RACK-2.31.apk) on the computer.
+1. Download [**RACK-2.34.apk**](https://github.com/TheShow715/rack-downloads/releases/download/v2.34/RACK-2.34.apk) on the computer.
 2. Connect the phone with a USB cable. On the phone, tap the **USB** notification and choose **File transfer**.
    - **Windows:** the phone shows up in File Explorer.
    - **Mac:** install the free **OpenMTP** app (openmtp.ganeshrvel.com) to see the phone's files.
-3. Copy **RACK-2.31.apk** into the phone's **Download** folder.
+3. Copy **RACK-2.34.apk** into the phone's **Download** folder.
 4. On the phone, open **Files → Downloads**, tap the file, and continue from **Step 3** above.
 
-Already use **adb**? Turn on USB debugging and run `adb install -r RACK-2.31.apk`.
+Already use **adb**? Turn on USB debugging and run `adb install -r RACK-2.34.apk`.
 </details>
 
 **Updating:** download the newest .apk from this page, open it, and tap **Update**. Your workouts stay. Never uninstall RACK to update: that deletes its data.
@@ -93,10 +93,10 @@ RACK isn't in the App Store, so you put it on your iPhone with a free computer a
 
 ### Step 2. Put RACK on the iPhone
 
-1. Download [**RACK-2.31.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.31/RACK-2.31.ipa) on the computer. Don't unzip or rename it.
+1. Download [**RACK-2.34.ipa**](https://github.com/TheShow715/rack-downloads/releases/download/v2.34/RACK-2.34.ipa) on the computer. Don't unzip or rename it.
 2. Unlock the iPhone and plug it in. Tap **Trust** on the iPhone and enter your passcode.
 3. Open **Sideloadly**. Your iPhone's name shows in the **iDevice** box.
-4. Drag **RACK-2.31.ipa** onto the **IPA** icon in Sideloadly.
+4. Drag **RACK-2.34.ipa** onto the **IPA** icon in Sideloadly.
 5. Type your **Apple ID** email in the **Apple account** box and click **Start**.
 6. Enter your Apple ID password (it only goes to Apple) and the 6-digit code if one appears.
 7. Wait for **Done**. The RACK icon appears on the iPhone.
@@ -119,7 +119,7 @@ A free Apple ID lets the app run for 7 days. To keep it going, plug in the iPhon
 <summary><b>Using AltStore instead of Sideloadly (Mac or Windows)</b></summary>
 
 1. Install **AltServer** from **altstore.io** and follow its steps to put **AltStore** on the iPhone.
-2. Download **RACK-2.31.ipa** on the iPhone (or AirDrop it from the Mac).
+2. Download **RACK-2.34.ipa** on the iPhone (or AirDrop it from the Mac).
 3. In AltStore, go to **My Apps**, tap **+**, and pick the file.
 4. AltStore refreshes RACK every 7 days by itself when the iPhone and computer are on the same Wi-Fi.
 </details>
@@ -156,15 +156,15 @@ RACK saves a backup every day and before every update. To move to a new phone (i
 
 ---
 
-## What's new in 2.31
+## What's new in 2.34
 
-- **Themes:** Pick a flavor in Settings → Display & motion → Theme: Cookies & Cream, Orange Creamsicle, Pink Donut Sprinkles, Marshmallow Cereal, Chocolate Milk, Mint Chip, and more, or a plain color like Volt or Midnight. Each one colors your buttons, tints the screen, fills the shaker with its own drink, and sprinkles its bits lightly around the app.
-- **Moving stick figures:** Every style in Try Something New has a stick figure that acts out the move on a loop: jabs, kicks, push-ups, swings, downward dog, and 40 more. In a guided session it does each step with you.
-- **Shake It Up! and Try Something New:** Surprise me is now Shake It Up!, and Switch it up is now Try Something New. Same workouts, new names.
-- **A new hello:** The first screen reads "Gym Buddy & Trainer. Let's RACK." with a rolling line under it: "Ready to RACK it?" when you're new, "Ready? Rock it, RACK it." when you're back, and plenty more.
-- **Copyright and license:** RACK's ownership, trademarks, and license terms are in Settings → About → Legal.
-- **Fixed:** The pour no longer runs through the words: "Shaking up your workout…" sits centered above the shaker, and the rising drink covers it.
-- **Fixed:** Choosing muscles and times in Shake It Up! looks like a clean press now, with a check on each pick, instead of a flicker.
+- **Your theme on the Lock Screen:** Your workout on the Lock Screen and in the Dynamic Island wears the theme you picked, with its color and tint. On Android, the workout notification takes the theme's color.
+- **A tighter Lock Screen:** No more empty space: the exercise sits at the top with the day's sets beside it, and the Log set button is slimmer and presses lightly.
+- **Done typing:** While you type a weight or reps, a bar above the keypad shows the set and the number, with a ✓ Done button that puts the keypad away.
+- **Added or assisted:** On dips, pull-ups, and other bodyweight moves, tap "added" next to the weight to switch to "assist" (a machine or band helping you), and back.
+- **Fixed:** The rating buttons (Easy, Right, Hard, Too hard), +30s, and Skip show on the Lock Screen again.
+- **Fixed:** Alternates stays on one line.
+- **Fixed:** The added/assisted switch works before you type a weight.
 
 
 [Every version](https://github.com/TheShow715/rack-downloads/releases)
